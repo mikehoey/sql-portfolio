@@ -21,16 +21,6 @@ This script analyzes the `menu_items` table in the `restaurant_db` database. It 
 
 ---
 
-### `customer_behavior.sql` *(Coming Soon)*
-This script will analyze customer ordering behavior, frequency, and preferences.
-
----
-
-### `sales_summary.sql` *(Coming Soon)*
-This script will summarize total sales, revenue by category, and sales trends over time.
-
----
-
 ## Skills Demonstrated
 - Data exploration with SQL
 - Business question framing
