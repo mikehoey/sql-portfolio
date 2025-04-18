@@ -31,20 +31,13 @@ This script will summarize total sales, revenue by category, and sales trends ov
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 - Data exploration with SQL
 - Business question framing
 - Clean, readable query writing
 - Use of SQL best practices
 
-## 📊 Tools Used
+## Tools Used
 - MySQL (or compatible DB)
 - SQL Server Management Studio / DBeaver / VS Code
 - Git & GitHub
-
----
-
-## 🚀 How to Use
-1. Clone this repo
-2. Open the `.sql` files in your preferred SQL editor
-3. Run scripts
